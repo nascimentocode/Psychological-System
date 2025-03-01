@@ -1,0 +1,39 @@
+# Ignorar arquivos de configuração e credenciais sensíveis
+.env
+
+# Ignorar arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar banco de dados SQLite
+db.sqlite3
+db.sqlite3-journal
+
+# Ignorar arquivos de logs e debug
+*.log
+logs/
+debug.log
+
+# Ignorar arquivos do Django
+/static/
+media/
+*.sqlite3
+
+# Ignorar arquivos do VSCode e PyCharm (caso use)
+.vscode/
+.idea/
+
+# Ignorar dependências do virtualenv
+.venv/
+*.venv/
+Pipfile
+Pipfile.lock
+
+# Ignorar arquivos do sistema operacional
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Ignorar arquivos de migração gerados automaticamente (opcional)
+**/migrations/*.py
+!**/migrations/__init__.py
