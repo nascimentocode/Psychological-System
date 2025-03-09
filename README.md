@@ -2,6 +2,7 @@
 
 Um sistema web para psicólogos gerenciarem seus pacientes, registrarem consultas e acompanharem a evolução do humor dos pacientes ao longo do tempo.
 Este projeto foi desenvolvido durante a imersão "4 Days 4 Projects - Edição 2" da Pythonando.
+
 ---
 
 ## 🚀 **Funcionalidades**
