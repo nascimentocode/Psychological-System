@@ -3,7 +3,6 @@
 Um sistema web para psicólogos gerenciarem seus pacientes, registrarem consultas e acompanharem a evolução do humor dos pacientes ao longo do tempo.
 Este projeto foi desenvolvido durante a imersão "4 Days 4 Projects - Edição 2" da Pythonando.
 
----
 
 ## 🚀 **Funcionalidades**
 
@@ -13,7 +12,6 @@ Este projeto foi desenvolvido durante a imersão "4 Days 4 Projects - Edição 2
 ✅ **Tarefas/Exercícios personalizados** – O psicólogo pode adicionar tarefas para o paciente realizar entre as consultas.  
 ✅ **Monitoramento do humor** – Cada consulta tem um campo para registrar o humor do paciente, e esses dados são exibidos em um gráfico geral.  
 
----
 
 ## 🛠 **Tecnologias Utilizadas**
 
@@ -22,7 +20,6 @@ Este projeto foi desenvolvido durante a imersão "4 Days 4 Projects - Edição 2
 - **SQLite** (Banco de dados)  
 - **Chart.js** (Geração de gráficos)  
 
----
 
 ## 📥 **Instalação e Execução**
 
@@ -64,7 +61,6 @@ Este projeto foi desenvolvido durante a imersão "4 Days 4 Projects - Edição 2
    http://127.0.0.1:8000/
    ```  
    
----
 
 ## 🏗 **Estrutura do Projeto**
 
@@ -77,10 +73,7 @@ Psychological-System/
 └── manage.py
 ```
 
----
 
 ## 📝 **Licença**
 
 Este projeto foi desenvolvido durante a imersão **"4 Days 4 Projects - Edição 2" da Pythonando** e está disponível apenas para fins de estudo.
-
----
